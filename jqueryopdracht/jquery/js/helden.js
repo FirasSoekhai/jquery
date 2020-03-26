@@ -18,7 +18,7 @@ $(document).ready( function() {
             top: '-=50px',
             opacity: '-=.2'
         }, 900)
-    }).dbclick ( function() {
+    }).dblclick ( function() {
         $(this).animate( {
             top: '0',
             opacity: '1'
